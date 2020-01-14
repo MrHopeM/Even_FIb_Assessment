@@ -1,0 +1,11 @@
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/bin/Debug/netcoreapp3.0/EvenFibNumbers
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/bin/Debug/netcoreapp3.0/EvenFibNumbers.deps.json
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/bin/Debug/netcoreapp3.0/EvenFibNumbers.runtimeconfig.json
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/bin/Debug/netcoreapp3.0/EvenFibNumbers.runtimeconfig.dev.json
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/bin/Debug/netcoreapp3.0/EvenFibNumbers.dll
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/bin/Debug/netcoreapp3.0/EvenFibNumbers.pdb
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/obj/Debug/netcoreapp3.0/EvenFibNumbers.csprojAssemblyReference.cache
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/obj/Debug/netcoreapp3.0/EvenFibNumbers.AssemblyInfoInputs.cache
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/obj/Debug/netcoreapp3.0/EvenFibNumbers.AssemblyInfo.cs
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/obj/Debug/netcoreapp3.0/EvenFibNumbers.dll
+/Users/Hope/Desktop/EvenFibNumbers/EvenFibNumbers/obj/Debug/netcoreapp3.0/EvenFibNumbers.pdb
